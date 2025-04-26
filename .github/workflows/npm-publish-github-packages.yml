@@ -8,7 +8,7 @@ name: Npm publish
 on:
     push:
         branches:
-            - main
+            - dev
 
 permissions:
     contents: write
@@ -38,6 +38,7 @@ jobs:
               with:
                   token: ${{ secrets.GITHUB_TOKEN }}
                   release-type: node
+                  target-branch: main
 
             - name: Setup Node.js
               uses: actions/setup-node@v4
