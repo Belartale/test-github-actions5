@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.15.0](https://github.com/Belartale/test-github-actions5/compare/v0.14.0...v0.15.0) (2025-04-26)
+
+
+### Features
+
+* add new function asasd5 to index.js and introduce Conventional … ([29be35c](https://github.com/Belartale/test-github-actions5/commit/29be35cb0b8d63347a45235fdd2bfd90e9572a97))
+* add new function asasd5 to index.js and introduce Conventional Commits rules in commits.mdc ([ea843bf](https://github.com/Belartale/test-github-actions5/commit/ea843bfc08651ef2af907e827f76d80ff7a246d6))
+
 ## [0.14.0](https://github.com/Belartale/test-github-actions5/compare/v0.13.1...v0.14.0) (2025-04-26)
 
 
