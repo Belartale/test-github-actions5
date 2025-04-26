@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.15.1](https://github.com/Belartale/test-github-actions5/compare/v0.15.0...v0.15.1) (2025-04-26)
+
+
+### Bug Fixes
+
+* correct comment typo in index.js ([6dcbb01](https://github.com/Belartale/test-github-actions5/commit/6dcbb01e055d03a93a974689528c430981c47d15))
+* correct comment typo in index.js ([054f024](https://github.com/Belartale/test-github-actions5/commit/054f02478401bf1c5d9b0f61d0cf40e62d42bb3e))
+
 ## [0.15.0](https://github.com/Belartale/test-github-actions5/compare/v0.14.0...v0.15.0) (2025-04-26)
 
 
