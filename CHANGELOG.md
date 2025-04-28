@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.16.0](https://github.com/Belartale/test-github-actions5/compare/v0.15.1...v0.16.0) (2025-04-28)
+
+
+### Features
+
+* 2Update README.md ([826024b](https://github.com/Belartale/test-github-actions5/commit/826024bccbdece425472919b1343117d155c0cee))
+* Update README.md ([a3c4566](https://github.com/Belartale/test-github-actions5/commit/a3c4566761652131cf2ffa68e7184c7af7380d0c))
+
 ## [0.15.1](https://github.com/Belartale/test-github-actions5/compare/v0.15.0...v0.15.1) (2025-04-26)
 
 
